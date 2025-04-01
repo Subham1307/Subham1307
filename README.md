@@ -12,6 +12,5 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=Subham1307&color=blue)
 
 
