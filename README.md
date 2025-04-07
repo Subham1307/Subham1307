@@ -3,12 +3,12 @@
 ---
 
 ## 🚀 Tech Stack
-- **Frontend:** Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, Flask, FastAPI
-- **Databases:** MongoDB, PostgreSQL, Neo4j, Prisma, VectorDB
-- **APIs & AI:** WebSockets, OpenAI, LLM
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend:** Node.js, Express, Flask, FastAPI, WebSockets
+- **Databases:** MongoDB, PostgreSQL, Neo4j, Prisma, VectorDB(Qdrant, FAISS)
+- **AI:** OpenAI, Langchain, LLM, RAG
 - **Languages:** JavaScript, TypeScript, Python
-- **DevOps & Tools:** Docker
+- **DevOps & Tools:** Docker, AWS S3, Lambda
 
 ---
 
